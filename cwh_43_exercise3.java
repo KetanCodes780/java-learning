@@ -1,9 +1,9 @@
   /*
     create a class Game,which allows a user to play "Guess the no"game once.
     Game should have the following methods:
-    1.constructor to generate the random no
-    2.takeUserInput() to take a user input of no
-    3.isCorrectNumber() to detect whether the no entered by the user is true
+    1.constructor to generate the random no.
+    2.takeUserInput() to take a user input of no.
+    3.isCorrectNumber() to detect whether the no entered by the user is true.
     4.getters and setter for noOfGuesses
     Use properties such as noOfGuesses(int),etc to get this task done!
     */
