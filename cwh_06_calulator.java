@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class CWH_06_calulator {
      public static void main(String[] args) {
-          Scanner scan = new Scanner(System.in);// sc should be of any name like scn or...
+          Scanner scan = new Scanner(System.in);// sc should be of any name like scn or......
           System.out.println("Enter marks of 5 subjects out of 100:");
 
           int m1 = scan.nextInt();
