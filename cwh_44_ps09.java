@@ -69,15 +69,13 @@ public class cwh_44_ps09 {
         System.out.println(myCylinder.surfaceArea());
         System.out.println(myCylinder.volume());
          */
+        
 
 
-        // Problem 3
+        // Problem 3-rectangle length and breadth
         Rectangle r = new Rectangle(12, 56);
         System.out.println(r.getLength());
         System.out.println(r.getBreadth());
-
-
-
 
 
 
