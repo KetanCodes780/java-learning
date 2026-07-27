@@ -12,7 +12,8 @@ public class CWH_07_PC {
         // int a = 4;
         // int b = 17;
         // int c =6;
-        // int sum = a + b+c;
+        // int sum = a + b + c;
+        //System.out.println("The sum of three numbers:");
         // System.out.println(sum);
 
         // Question2
