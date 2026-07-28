@@ -1,6 +1,6 @@
 
 public class cwh_22_ch4_do_while {
-    //do while is a entry controlled loop
+    //do while is a entry controlled loop 
     public static void main(String[] args) {
 //        int a = 0;
 //        while(a<5){
