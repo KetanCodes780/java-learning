@@ -39,7 +39,7 @@ public class cwh_34_recursion {
         System.out.println("The value of factorial x is: " + factorial(x));
         System.out.println("The value of factorial x is: " + factorial_iterative(x));
         int n=10;
-        System.out.println("The fibonacci sequence is:");
+        System.out.println("The fibonacci sequence is->:");
         for(int i=0;i<n;i++){
             System.out.print(fib(i)+" ");
         }
