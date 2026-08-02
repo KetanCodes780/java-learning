@@ -21,7 +21,7 @@ public class cwh_38_custom_class {
 
         // Setting Attributes for Harry
         harry.id = 12;
-        harry.salary = 34;
+        harry.salary = 340000;
         harry.name = "CodeWithHarry";
 
         // Setting Attributes for John
@@ -29,7 +29,7 @@ public class cwh_38_custom_class {
         john.salary = 12;
         john.name = "John Khandelwal";
 
-        // Printing the Attributes
+        // Printing the Attributes 
         harry.printDetails();
         john.printDetails();
         int salary = john.getSalary();
