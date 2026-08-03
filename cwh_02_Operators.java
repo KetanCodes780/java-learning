@@ -13,6 +13,7 @@ public class cwh_02_Operators {
 
         // 3. Comparison Operators
         // System.out.println(64<6);
+        //System.out.println(65>6);
 
         // 4. Logical Operators
         // System.out.println(64>5 && 64>98);
