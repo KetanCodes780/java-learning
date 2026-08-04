@@ -20,7 +20,7 @@ public class cwh_40_ch9 {
         MyEmployee harry = new MyEmployee();
         // harry.id = 45;
         // harry.name = "CodeWithHarry"; --> Throws an error due to private access modifier
-        harry.setName("CodeWithHarry");
+        harry.setName("xyz choudhary");
         System.out.println(harry.getName());
         harry.setId(234);
         System.out.println(harry.getId());
