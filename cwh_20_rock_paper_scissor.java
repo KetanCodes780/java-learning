@@ -38,7 +38,7 @@ public class cwh_20_rock_paper_scissor {
 
         }
 
-        System.out.printf("Final score:You = %d,and computer = %d.",playerScore,compScore);
+        System.out.printf("Final score : You = %d,and computer = %d.",playerScore,compScore);
 
 
         
