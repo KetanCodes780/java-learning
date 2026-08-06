@@ -13,6 +13,9 @@ public class cwh_23_for_loop {
 
         for(int i=5; i!=0; i--){
             System.out.println(i);
+
+        for(int i=0;i<10;i++){
+            System.out.println(i+1);
         }
     }
 }
