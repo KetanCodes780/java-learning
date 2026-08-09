@@ -1,4 +1,4 @@
-
+//string methods 
 public class cwh_14_string_methods {
     public static void main(String[] args) {
         String name = "Harry";
